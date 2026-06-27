@@ -8,7 +8,6 @@ public:
 
             minheap.push(num);
 
-            // heap size k se zyada ho toh smallest remove
             if(minheap.size() > k) {
                 minheap.pop();
             }
