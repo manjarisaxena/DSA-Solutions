@@ -82,17 +82,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
