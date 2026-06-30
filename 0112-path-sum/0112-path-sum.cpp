@@ -6,7 +6,6 @@ public:
 
         targetSum -= root->val;
 
-        // Leaf node
         if (root->left == nullptr && root->right == nullptr)
             return targetSum == 0;
 
