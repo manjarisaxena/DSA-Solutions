@@ -1,10 +1,10 @@
 class Solution {
 public:
-    void dfs(int city, vector<vector<int>>& isConnected, vector<int>& vis) {
-        vis[city] = 1;
+    void dfs(int c, vector<vector<int>>& isConnected, vector<int>& vis) {
+        vis[c] = 1;
 
         for (int i = 0; i < isConnected.size(); i++) {
-            if (isConnected[city][i] == 1 && !vis[i]) {
+            if (isConnected[c][i] == 1 && !vis[i]) {
                 dfs(i, isConnected, vis);
             }
         }
