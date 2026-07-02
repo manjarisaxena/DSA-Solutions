@@ -100,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/manjarisaxena/DSA-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/manjarisaxena/DSA-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
@@ -114,9 +116,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/manjarisaxena/DSA-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/manjarisaxena/DSA-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
