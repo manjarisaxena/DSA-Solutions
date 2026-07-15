@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manjarisaxena/DSA-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/manjarisaxena/DSA-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/manjarisaxena/DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
