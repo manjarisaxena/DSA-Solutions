@@ -1,0 +1,29 @@
+class Solution {
+public:
+    bool checkValidString(string s) {
+        stack<int> a,b;
+        for(int i = 0; i<s.size();i++){
+            if(s[i] == '(')
+            a.push(i);
+            else if(s[i] == ')' ){
+                if(!a.empty())
+                a.pop();
+                else if(!b.empty())
+                b.pop();
+                else
+                     return false;
+            }
+            else
+                 b.push(i);
+        }
+        while(!a.empty()){
+            if(b.empty())
+            return false;
+            if(a.top()>b.top())
+            return false;
+            a.pop();
+            b.pop();
+        }
+        return true;
+    }
+};
